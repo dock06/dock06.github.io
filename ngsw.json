@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640052756417,
+  "timestamp": 1640112943574,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b58a5fbf195b77e1.js",
+        "/main.26c77706f7d2bd8c.js",
         "/manifest.webmanifest",
         "/polyfills.5d7c45e609e4f5a8.js",
         "/runtime.639587c5226a6244.js",
-        "/styles.55a3fc1cabc19262.css"
+        "/styles.f1c50784be241998.css"
       ],
       "patterns": []
     },
@@ -36,7 +36,9 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/styles/styles-app-loading.css",
+        "/assets/styles/styles.css"
       ],
       "patterns": []
     }
@@ -51,13 +53,15 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/styles/styles-app-loading.css": "b19c4af9a2766d50a47593c7f24ed5a031102472",
+    "/assets/styles/styles.css": "e9833fa2da7c927775db45b1f4d9d70d881c1538",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "99a7cde73e8380533303ef28054ac1d9b9376e76",
-    "/main.b58a5fbf195b77e1.js": "c92c3d0e5eff32502d76b55656095ea899f4a831",
+    "/index.html": "db89458e1dc4786f69ee2395feeb398d59dbc782",
+    "/main.26c77706f7d2bd8c.js": "40c150c5a8984fb26f4f9a834037020618d20537",
     "/manifest.webmanifest": "f3ad9d40cc2703c41ebd6d09893363ae8edf6284",
     "/polyfills.5d7c45e609e4f5a8.js": "93cdd6b77066048d13b3aeffcdf473c7817c8bff",
     "/runtime.639587c5226a6244.js": "5e415c258847636eaccd635d83f3585dd06c3c32",
-    "/styles.55a3fc1cabc19262.css": "a7f72450273228bcdcfe38be0c1a38ff4a427170"
+    "/styles.f1c50784be241998.css": "5afcb9c9de7b6100e96cf7d0ad2c5c123a2ea5a0"
   },
   "navigationUrls": [
     {
