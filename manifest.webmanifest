@@ -1,7 +1,7 @@
 {
   "name": "Análisis y Prospectiva",
   "short_name": "Análisis y Prospectiva",
-  "theme_color": "#1976d2",
+  "theme_color": "#333F50",
   "background_color": "#333F50",
   "display": "standalone",
   "scope": "./",
