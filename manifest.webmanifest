@@ -1,8 +1,8 @@
 {
-  "name": "prospectiva",
-  "short_name": "prospectiva",
+  "name": "Análisis y Prospectiva",
+  "short_name": "Análisis y Prospectiva",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#333F50",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
